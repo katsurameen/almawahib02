@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 👋
 
-Hi there! I'm a developer passionate about web development, mobile development, data science, automation, and open-source projects. I love learning, sharing knowledge, and collaborating on innovative ideas.
+Hi there! I'm a developer passionate about web development, mobile development, and machine learning. I love learning, sharing knowledge, and collaborating on innovative ideas.
 
 ## How to Contribute
 1. Fork the repository.

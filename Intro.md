@@ -15,4 +15,3 @@ Hi there! I'm a developer passionate about web development, mobile development, 
 - **LinkedIn**: [My LinkedIn](https://linkedin.com/in/zulfasulthany)
 
 Thanks for visiting! 🚀
-```

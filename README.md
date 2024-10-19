@@ -11,7 +11,7 @@ Hi there! I'm a developer passionate about web development, mobile development, 
 3. Create a new branch, make changes, and submit a pull request.
 
 ## Let's Connect
-- **Email**: [Mail Me](mailto:almawahib083@gmail.com)
+- **Email**: [almawahib083@gmail.com](mailto:almawahib083@gmail.com)
 - **LinkedIn**: [My LinkedIn](https://linkedin.com/in/zulfasulthany)
 
 Thanks for visiting! 🚀
